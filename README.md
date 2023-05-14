@@ -7,7 +7,7 @@ Minimal API with Angular frontend using AG Grid, Material, and Tailwind CSS.
 ## Features
 
 * EntityBase (Id, CreatedOn, CreatedBy, UpdatedOn, UpdatedBy, DeletedOn, DeletedBy)
-* Temporal tables
+* Temporal tables (history)
 * Concurrency tokens
 * Default delete behavior
 * Soft deletes
